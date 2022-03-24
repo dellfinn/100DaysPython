@@ -1,1 +1,0 @@
-print("Bem vindo ao gerador de no para bandas de ROCK!")
